@@ -1,2 +1,2 @@
-# tcc_project
-Projeto TCC
+# newTcc
+TCC
